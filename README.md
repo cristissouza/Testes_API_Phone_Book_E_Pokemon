@@ -1,6 +1,6 @@
 # Testes_API_Phone_Book_E_Pokemon
 
-Os testes foram criados para realizarem testes de API em duas APIs distintas.
+Estes arquivos contém testes de API, criados para testar duas APIs distintas.
 
 Os testes do arquivo testeAPIPhone.rb, testa a API Phone-book criada por Fredmoreira que se encontra na url: https://github.com/fredmoreira/phone-book
 
